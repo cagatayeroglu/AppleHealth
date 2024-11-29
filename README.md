@@ -1,4 +1,4 @@
-The Impact of Academic Intensity and Campus Mobility on Physical Activity: An Analysis of Apple Health Step Count Data at Sabancı University
+THE IMPACT OF ACADEMIC INTENSITY AND CAMPUS MOBILITY ON PHYSICAL ACTIVITY: AN ANALYSIS OF APPLE HEALTH STEP COUNT DATA AT SABANCI UNIVERSITY
 
 Introduction:
 Sabancı University has a large campus with classrooms located far apart, which affects students' daily physical activity. During academic terms, campus mobility increases step counts, while during summer and midterm breaks and even during weekends in terms, step counts may decrease. However, individual cases like internships or jobs during holidays can lead to higher step counts and deviate from general trends. This project aims to study how academic periods and campus life affect students' physical activity, analyze seasonal differences, and explain these unique cases (outliers).
@@ -52,7 +52,7 @@ Weekday vs Weekend Comparison: Step counts during academic terms will be compare
 
 Statistical Methods:
 
-Group comparisons (e.g., summer vs academic terms).
+Group comparisons (e.g., summer vs academic terms, weekends vs weekdays).
 
 Time series analysis to track step count changes over time.
 
