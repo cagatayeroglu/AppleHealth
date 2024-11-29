@@ -133,4 +133,4 @@ Project Contributions
 
 Provide insights into how academic schedules and campus mobility influence physical activity.
 Help students and university management understand the impact of campus layout on daily activity.
-Highlight unique cases (e.g., internships) to showcase deviations from trends.
+Highlight unique cases (e.g., internships) to show outliers.
