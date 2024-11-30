@@ -30,20 +30,31 @@ Methodology
 1. Data Collection
 
 Source: Step count data from Apple Health (in XML format).
+
 Time Frame: October 3, 2022 – September 23, 2024.
+
 Groups:
+
 2022-2023 Academic Term: October 3 - January 20 / February 27 - June 11
+
 2023-2024 Academic Term: October 2 - January 19 / February 15 - June 9
+
 Summer Break: June 11 - October 2 (2023) / June 11 - September 23 (2024)
+
 Midterm Break: January 15 - February 15
+
 Internship Periods: January 29 - February 9, 2024; July 4 - 28, 2024; September 2 - 20, 2024
+
 Weekdays vs Weekends: Data will also be classified by weekday and weekend.
+
 2. Data Processing
 
 Tools & Environment:
 
 Data will be processed using Python in a Jupyter Notebook.
+
 Libraries: pandas, xml.etree.ElementTree, matplotlib, seaborn, numpy.
+
 Steps for Processing XML Data:
 
 Reading XML Files:
