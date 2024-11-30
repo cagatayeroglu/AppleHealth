@@ -140,7 +140,7 @@ Weekdays vs Weekends:
 
 Step counts will be higher on weekdays than weekends during academic terms.
 
-Project Contributions
+ Project Contributions
 
 Provide insights into how academic schedules and campus mobility influence physical activity.
 Help students and university management understand the impact of campus layout on daily activity.
