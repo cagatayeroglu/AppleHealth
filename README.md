@@ -63,7 +63,7 @@ This project uses a combination of exploratory data analysis (EDA), visualizatio
 ## Repository Structure
 
 - **`data/`**: Contains cleaned and processed step count data (filtered XML files).  
-- **`AppleHealth.ipynb/`**: Jupyter Notebook containing analysis scripts.  
+- [**`AppleHealth.ipynb/`**]https://github.com/cagatayeroglu/AppleHealth/blob/main/AppleHealth.ipynb: Jupyter Notebook containing analysis scripts.  
 - **`slides.pptx/`**: Slides for visualizations that generated from the data analysis.  
 - **`README.md`**: Detailed project description.  
 
