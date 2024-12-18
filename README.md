@@ -64,7 +64,7 @@ This project uses a combination of exploratory data analysis (EDA), visualizatio
 
 - [data](https://github.com/cagatayeroglu/AppleHealth/tree/main/data): Contains cleaned and processed step count data (filtered XML files).  
 - [`AppleHealth.ipynb`](https://github.com/cagatayeroglu/AppleHealth/blob/main/AppleHealth.ipynb): Jupyter Notebook containing analysis scripts.  
-- [`slides.pptx`](https://github.com/cagatayeroglu/AppleHealth/blob/main/slides.pptx): Slides for visualizations that generated from the data analysis.  
+- [`AppleHealth_PP.pptx`](https://github.com/cagatayeroglu/AppleHealth/blob/main/slides.pptx): Slides for visualizations that generated from the data analysis.  
 - [`README.md`](https://github.com/cagatayeroglu/AppleHealth/blob/main/README.md): Detailed project description.  
 
 ---
