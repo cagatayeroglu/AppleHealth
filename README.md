@@ -66,7 +66,7 @@ This project uses a combination of exploratory data analysis (EDA), visualizatio
 
 These findings highlight the significant impact of environment and routine on physical activity levels, with structured environments like school contributing positively to daily step counts.
 
-FOR THE DETAİLED FİNDİNGS: [`AppleHealth.ipynb`](https://github.com/cagatayeroglu/AppleHealth/blob/main/AppleHealth.ipynb)
+For the detailed findings and analysis : [`AppleHealth.ipynb`](https://github.com/cagatayeroglu/AppleHealth/blob/main/AppleHealth.ipynb)
 
 ---
 
