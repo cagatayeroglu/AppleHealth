@@ -2,7 +2,8 @@ THE IMPACT OF ACADEMIC INTENSITY AND CAMPUS MOBILITY ON PHYSICAL ACTIVITY: AN AN
 
 Introduction
 Sabancı University has a large campus with classrooms located far apart, which affects students' daily physical activity. During academic terms, campus mobility increases step counts, while during summer and midterm breaks and even during weekends in terms, step counts may decrease. However, individual cases like internships or jobs during holidays can lead to higher step counts and deviate from general trends. This project aims to study how academic periods and campus life affect students' physical activity, analyze seasonal differences, and explain these unique cases (outliers).
-
+Data Parsing:
+xml.etree.ElementTree
 Objective
 
 The project aims to analyze how academic schedules and campus size impact step counts. Specifically:
