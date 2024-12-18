@@ -17,6 +17,7 @@ This project focuses on analyzing step count data collected from Apple Health, w
 ## Motivation
 
 Understanding personal health trends is essential for improving well-being. This project aims to explore my own step count data from 2022 to 2024, identify patterns during different terms and potentially understand the patterns. The results can help demonstrate how physical activity fluctuates over time during academic term due to campus mobility. 
+
 ---
 
 ## Data Source
