@@ -6,7 +6,7 @@ This project focuses on analyzing step count data collected from Apple Health, w
 
 ## Motivation
 
-Understanding personal health trends is essential for improving well-being. This project aims to explore my own step count data from 2022 to 2024, identify patterns, and potentially motivate healthier habits. The results can help demonstrate how physical activity fluctuates over time.
+Understanding personal health trends is essential for improving well-being. This project aims to explore my own step count data from 2022 to 2024, identify patterns during different terms and potentially understand the patterns. The results can help demonstrate how physical activity fluctuates over time.
 
 ---
 
@@ -16,8 +16,6 @@ The data was collected directly from my iPhone via the Apple Health app.
 - **Data Type:** XML export from Apple Health.  
 - **Time Period:** October 3, 2022 – September 23, 2024.  
 - **Steps:** Filtered data focusing on `HKQuantityTypeIdentifierStepCount`.
-
-The raw data is not shared due to privacy concerns, but all scripts and analysis workflows are available in this repository.
 
 ---
 
@@ -30,7 +28,7 @@ This project uses a combination of exploratory data analysis (EDA), visualizatio
   - Focused on trends, daily averages, and identifying anomalies.
   
 - **Visualization:**
-  - Generated step count graphs (daily, monthly trends).
+  - Generated step count graphs, box plots (daily, monthly trends).
   - Highlighted highest and lowest activity days.
 
 - **Tools & Libraries Used:**
@@ -42,10 +40,10 @@ This project uses a combination of exploratory data analysis (EDA), visualizatio
 
 ## Findings
 
-- **Average Steps per Day:** 8,500 steps.  
-- **Highest Recorded Step Count:** 15,000 steps on May 12, 2023.  
-- **Lowest Recorded Step Count:** 2,500 steps on December 25, 2022.  
-- **Weekly Patterns:** Step count tends to be higher during weekdays compared to weekends.
+- **Average Steps per Day:** Calculated from filtered data in the notebook.  
+- **Highest Recorded Step Count:** Derived from the analysis (refer to notebook).  
+- **Lowest Recorded Step Count:** Derived from the analysis (refer to notebook).  
+- **Weekly Patterns:** Step count variations across weekdays and weekends.
 
 ---
 
@@ -65,20 +63,16 @@ This project uses a combination of exploratory data analysis (EDA), visualizatio
 ## Repository Structure
 
 - **`data/`**: Contains cleaned and processed step count data (filtered XML files).  
-- **`notebooks/`**: Jupyter Notebook containing analysis scripts.  
-- **`images/`**: Visualizations generated from the data analysis.  
+- **`AppleHealth.ipynb/`**: Jupyter Notebook containing analysis scripts.  
+- **`slides.pptx/`**: Slides for visualizations that generated from the data analysis.  
 - **`README.md`**: Detailed project description.  
 
 ---
 
 ## About Me
 
-This project was developed by **Çağatay Eroğlu** as part of a personal data analysis exploration for the **CS-XXX** course.
+This project was developed by **Çağatay Eroğlu** as part of a personal data analysis exploration for the **DSA210** course.
 
 ---
 
-## Notes for Evaluation
 
-- The repository will remain public for evaluation purposes until **January 5, 2025**.
-- All analysis scripts are provided, while raw data is excluded for privacy reasons.
-- This repository will be updated regularly with new findings and features.
