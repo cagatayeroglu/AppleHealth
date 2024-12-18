@@ -1,3 +1,13 @@
+## TABLE OF CONTENT
+
+- [data](https://github.com/cagatayeroglu/AppleHealth/tree/main/data): Contains cleaned and processed step count data (filtered XML files).  
+- [`AppleHealth.ipynb`](https://github.com/cagatayeroglu/AppleHealth/blob/main/AppleHealth.ipynb): Jupyter Notebook containing analysis scripts.  
+- [`AppleHealth_PP.pptx`](https://github.com/cagatayeroglu/AppleHealth/blob/main/slides.pptx): Slides for visualizations that generated from the data analysis.  
+- [`README.md`](https://github.com/cagatayeroglu/AppleHealth/blob/main/README.md): Detailed project description.  
+
+---
+
+
 # Apple Health Analysis
 
 This project focuses on analyzing step count data collected from Apple Health, with the goal of understanding daily trends and personal health patterns. The analysis incorporates data visualization and exploration techniques to draw meaningful insights.
@@ -6,7 +16,7 @@ This project focuses on analyzing step count data collected from Apple Health, w
 
 ## Motivation
 
-Understanding personal health trends is essential for improving well-being. This project aims to explore my own step count data from 2022 to 2024, identify patterns during different terms and potentially understand the patterns. The results can help demonstrate how physical activity fluctuates over time.
+Understanding personal health trends is essential for improving well-being. This project aims to explore my own step count data from 2022 to 2024, identify patterns during different terms and potentially understand the patterns. The results can help demonstrate how physical activity fluctuates over time during academic term.
 
 ---
 
@@ -40,10 +50,23 @@ This project uses a combination of exploratory data analysis (EDA), visualizatio
 
 ## Findings
 
-- **Average Steps per Day:** Calculated from filtered data in the notebook.  
-- **Highest Recorded Step Count:** Derived from the analysis (refer to notebook).  
-- **Lowest Recorded Step Count:** Derived from the analysis (refer to notebook).  
-- **Weekly Patterns:** Step count variations across weekdays and weekends.
+## Findings
+
+- **Activity During School Year:**  
+  The data indicates an increase in daily step count during the school year, likely due to the large campus and frequent walking between classes. Average daily steps during the school year exceeded those recorded in other periods.
+
+- **Lower Activity During Summer:**  
+  A noticeable decrease in step count was observed during summer months. Despite certain outlier events, such as summer internships, overall activity levels were lower compared to the school term.
+
+- **Impact of Outliers:**  
+  Outlier days, such as those during summer internships, temporarily increased daily step counts but were insufficient to offset the overall decline in activity during the summer.
+
+- **Weekly Patterns:**  
+  Step count data shows higher activity levels during weekdays compared to weekends, reflecting routine class schedules and campus activities.
+
+These findings highlight the significant impact of environment and routine on physical activity levels, with structured environments like school contributing positively to daily step counts.
+
+FOR THE DETAİLED FİNDİNGS: [`AppleHealth.ipynb`](https://github.com/cagatayeroglu/AppleHealth/blob/main/AppleHealth.ipynb)
 
 ---
 
@@ -60,14 +83,6 @@ This project uses a combination of exploratory data analysis (EDA), visualizatio
 
 ---
 
-## Repository Structure
-
-- [data](https://github.com/cagatayeroglu/AppleHealth/tree/main/data): Contains cleaned and processed step count data (filtered XML files).  
-- [`AppleHealth.ipynb`](https://github.com/cagatayeroglu/AppleHealth/blob/main/AppleHealth.ipynb): Jupyter Notebook containing analysis scripts.  
-- [`AppleHealth_PP.pptx`](https://github.com/cagatayeroglu/AppleHealth/blob/main/slides.pptx): Slides for visualizations that generated from the data analysis.  
-- [`README.md`](https://github.com/cagatayeroglu/AppleHealth/blob/main/README.md): Detailed project description.  
-
----
 
 ## About Me
 
