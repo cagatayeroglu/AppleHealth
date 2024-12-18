@@ -48,7 +48,6 @@ This project uses a combination of exploratory data analysis (EDA), visualizatio
 
 ---
 
-## Findings
 
 ## Findings
 
