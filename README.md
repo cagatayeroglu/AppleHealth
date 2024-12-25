@@ -10,7 +10,7 @@
 
 # Apple Health Analysis
 
-This project focuses on analyzing step count data collected from Apple Health, with the goal of understanding daily trends and personal health patterns. The analysis incorporates data visualization and exploration techniques to draw meaningful insights.
+This project focuses on analyzing step count data collected from Apple Health, with the goal of understanding daily trends and personal health patterns. The analysis incorporates data visualization and exploration techniques to draw meaningful insights. While aiming to explain the affect of Sabancı Campus to daily activity, we exclude the outliers to get the pure data that will show to affect.
 
 ---
 
