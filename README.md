@@ -79,6 +79,7 @@ For the detailed findings and analysis : [`AppleHealth.ipynb`](https://github.co
 - Incorporate additional metrics like sleep analysis and heart rate.
 - Develop a web-based dashboard using tools like [Streamlit](https://streamlit.io/) to make the analysis interactive.
 - Use machine learning models to predict activity levels based on historical data.
+- Get other datas from other students that study in different schools.
 
 ---
 
