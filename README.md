@@ -45,7 +45,11 @@ How do daily habits change as academic workload increases? This project aims to 
 - Handle missing or irrelevant data.  
 
 ### **2. Exploratory Data Analysis (EDA)**
-- Use visualizations (line charts, scatter plots, histograms) to uncover trends.  
+- Use visualizations such as:
+  - **Boxplots** to show distribution and variability in physical health metrics.  
+  - **Scatter plots** to observe correlations between metrics like step count and energy burned.  
+  - **Histograms** to analyze frequency distributions of activities.  
+  - **Line charts** to observe trends over time.  
 - Calculate summary statistics to detect patterns.  
 
 ### **3. Time-Series Analysis**
@@ -54,7 +58,6 @@ How do daily habits change as academic workload increases? This project aims to 
 
 ### **4. Comparative Analysis**
 - Compare physical activity and energy expenditure across different academic periods.  
-- Perform correlation analysis to link academic workload with health metrics.  
 
 ### **5. Machine Learning (Optional)**
 - Use regression analysis to predict health trends.  
@@ -63,6 +66,8 @@ How do daily habits change as academic workload increases? This project aims to 
 ---
 
 ## Project Plan
+
+1. **[AppleHealth Notebook](https://github.com/cagatayeroglu/AppleHealth/blob/main/AppleHealth.ipynb)**  
 
 ### **1. Preprocessing Data**
 - Import and clean raw data.  
@@ -95,6 +100,9 @@ How do daily habits change as academic workload increases? This project aims to 
 
 ## Future Work
 
+2. **[FutureGuess Notebook](https://github.com/cagatayeroglu/AppleHealth/blob/main/FutureGuess.ipynb)**  
+
+
 1. **Expand Dataset**  
    - Include additional metrics like sleep patterns, stress levels, and mood for a holistic analysis.  
 
@@ -106,3 +114,11 @@ How do daily habits change as academic workload increases? This project aims to 
 
 4. **Broader Scope**  
    - Extend the project to analyze the impact of other external factors, such as exam periods or seasonal changes.  
+
+---
+
+
+
+## Sabanci University Picture
+
+![Sabanci University](https://github.com/cagatayeroglu/AppleHealth/blob/main/1294_1_sabanciuniv.gif)
