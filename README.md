@@ -15,7 +15,7 @@
 
 ## Hypothesis
 
-Campus mobility significantly increases during academic terms compared to non-academic periods (e.g., summer breaks and midterm holidays). This project aims to validate this hypothesis by analyzing step count during academic and non-academic phases.
+Campus mobility significantly increases during academic terms due to academic workload compared to non-academic periods (e.g., summer breaks and midterm holidays). This project aims to validate this hypothesis by analyzing step count during academic and non-academic phases.
 
 ---
 
