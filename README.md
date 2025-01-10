@@ -5,6 +5,16 @@
 **Student ID:** 32392  
 
 ---
+## TABLE OF CONTENTS
+
+
+**[AppleHealth PowerPoint](https://github.com/cagatayeroglu/AppleHealth/blob/main/AppleHealth_PP.pptx)**
+
+**[AppleHealth Notebook](https://github.com/cagatayeroglu/AppleHealth/blob/main/AppleHealth.ipynb)**  
+
+**[FutureGuess Notebook](https://github.com/cagatayeroglu/AppleHealth/blob/main/FutureGuess.ipynb)**  
+
+
 
 ## Motivation
 
@@ -100,8 +110,7 @@ These internship periods were identified as outliers due to their deviation from
 ### **5. Presentation**
 - Compile results and methodologies into a detailed report.  
 - Present key findings and recommendations.
-
- **[AppleHealth Notebook](https://github.com/cagatayeroglu/AppleHealth/blob/main/AppleHealth.ipynb)**  
+- 
   
 
 ---
@@ -129,7 +138,6 @@ These internship periods were identified as outliers due to their deviation from
 4. **Broader Scope**  
    - Extend the project to analyze the impact of other external factors, such as exam periods or seasonal changes.  
 
- **[FutureGuess Notebook](https://github.com/cagatayeroglu/AppleHealth/blob/main/FutureGuess.ipynb)**  
 
 
 ---
