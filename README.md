@@ -2,7 +2,7 @@
 
 **Author:** Cagatay Eroglu  
 **Course:** DSA210 - Data Science and Applications  
-**Student ID:** 32242  
+**Student ID:** 32392  
 
 ---
 
@@ -18,7 +18,7 @@ How do daily habits change as academic workload increases? This project aims to 
 - Data collected from Apple Health application in XML format.  
 
 ### **Description**  
-- Metrics include **step count**, **flights climbed**, **energy burned**, and other physical health indicators.  
+- Metrics include **step count** (physical health indicator).  
 - Time-sensitive health data across multiple timelines.  
 - Data spans from **2022-10-03** to **2024-09-23**, enabling a comparative analysis of health metrics across academic and non-academic periods.
 
@@ -75,11 +75,8 @@ These internship periods were identified as outliers due to their deviation from
 - Identify seasonal patterns, anomalies, and deviations during internships.  
 
 ### **4. Comparative Analysis**
-- Compare physical activity and energy expenditure across academic terms, breaks, and internship periods.  
-
-### **5. Machine Learning (Optional)**
-- Use regression analysis to predict health trends.  
-- Apply clustering to group similar patterns in physical health metrics.  
+- Compare physical activity and step count terms, breaks, and internship periods.  
+.  
 
 ---
 
@@ -124,7 +121,7 @@ These internship periods were identified as outliers due to their deviation from
    - Include additional metrics like sleep patterns, stress levels, and mood for a holistic analysis.  
 
 2. **Collaborative Analysis**  
-   - Compare findings with similar data from peers to identify common trends and outliers.  
+   - Compare findings with similar data from peers to identify common trends and outliers. Include other students from different schools. 
 
 3. **Automation**  
    - Develop automated tools for real-time health tracking and analysis.  
