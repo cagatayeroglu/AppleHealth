@@ -133,7 +133,9 @@ These internship periods were identified as outliers due to their deviation from
    - Compare findings with similar data from peers to identify common trends and outliers. Include other students from different schools. 
 
 3. **Automation**  
-   - Develop automated tools for real-time health tracking and analysis.  
+   - Develop automated tools for real-time health tracking and analysis. Develop Machine Learning model to guess the next years to take precautions accordingly.
+   - Here is the sample one, **[ML model](https://github.com/cagatayeroglu/AppleHealth/blob/main/FutureGuess.ipynb)**  
+
 
 4. **Broader Scope**  
    - Extend the project to analyze the impact of other external factors, such as exam periods or seasonal changes.  
