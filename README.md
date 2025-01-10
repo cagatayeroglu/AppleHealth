@@ -151,3 +151,4 @@ These internship periods were identified as outliers due to their deviation from
 ## Sabanci University Picture
 
 [Sabanci University Logo](https://github.com/cagatayeroglu/AppleHealth/blob/main/1294_1_sabanciuniv.gif)
+Sabancı Vakfı. (t.y.). Sabancı Üniversitesi. Sabancı Vakfı. https://www.sabancivakfi.org/tr/universite/istanbul/sabanci-universitesi
