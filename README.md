@@ -13,7 +13,11 @@
 
 **[FutureGuess Notebook](https://github.com/cagatayeroglu/AppleHealth/blob/main/FutureGuess.ipynb)**  
 
+## Hypothesis
 
+Campus mobility significantly increases during academic terms compared to non-academic periods (e.g., summer breaks and midterm holidays). This project aims to validate this hypothesis by analyzing step count during academic and non-academic phases.
+
+---
 
 ## Motivation
 
@@ -66,12 +70,20 @@ These internship periods were identified as outliers due to their deviation from
 
 ## Methods and Techniques
 
-### **1. Data Preprocessing**
+## **1. Libraries Used
+
+- **pandas**: For data manipulation and analysis.  
+- **numpy**: For numerical computations.  
+- **matplotlib**: For data visualization.  
+- **seaborn**: For advanced and aesthetically pleasing visualizations.  
+- **xml.etree.ElementTree**: For parsing XML files from Apple Health data.  
+
+### **2. Data Preprocessing**
 - Parse XML data from Apple Health.  
 - Clean and structure the dataset for analysis.  
 - Handle missing or irrelevant data.  
 
-### **2. Exploratory Data Analysis (EDA)**
+### **3. Exploratory Data Analysis (EDA)**
 - Use visualizations such as:
   - **Boxplots** to show distribution and variability in physical health metrics.  
   - **Scatter plots** to observe correlations between metrics like step count and energy burned.  
@@ -79,11 +91,11 @@ These internship periods were identified as outliers due to their deviation from
   - **Line charts** to observe trends over time.  
 - Detect and analyze **outliers**, focusing on internship periods.  
 
-### **3. Time-Series Analysis**
+### **4. Time-Series Analysis**
 - Analyze data over time to observe long-term changes.  
 - Identify seasonal patterns, anomalies, and deviations during internships.  
 
-### **4. Comparative Analysis**
+### **5. Comparative Analysis**
 - Compare physical activity and step count terms, breaks, and internship periods.  
 .  
 
