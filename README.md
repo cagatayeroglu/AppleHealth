@@ -1,7 +1,7 @@
 # Health Data and Academic Intensity Analysis
 
 **Author:** Cagatay Eroglu  
-**Course:** DSA210 - Data Science and Applications  
+**Course:** DSA210 - Data Science 
 **Student ID:** 32392  
 
 ---
