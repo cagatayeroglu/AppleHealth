@@ -121,4 +121,4 @@ How do daily habits change as academic workload increases? This project aims to 
 
 ## Sabanci University Picture
 
-![Sabanci University](https://github.com/cagatayeroglu/AppleHealth/blob/main/1294_1_sabanciuniv.gif)
+[Sabanci University Logo](https://github.com/cagatayeroglu/AppleHealth/blob/main/1294_1_sabanciuniv.gif)
