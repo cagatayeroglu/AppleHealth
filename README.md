@@ -73,7 +73,6 @@ These internship periods were identified as outliers due to their deviation from
 ## **1. Libraries Used
 
 - **pandas**: For data manipulation and analysis.  
-- **numpy**: For numerical computations.  
 - **matplotlib**: For data visualization.  
 - **seaborn**: For advanced and aesthetically pleasing visualizations.  
 - **xml.etree.ElementTree**: For parsing XML files from Apple Health data.  
