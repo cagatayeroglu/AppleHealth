@@ -7,7 +7,6 @@
 ---
 ## TABLE OF CONTENTS
 
-
 **[AppleHealth PowerPoint](https://github.com/cagatayeroglu/AppleHealth/blob/main/AppleHealth_PP.pptx)**
 
 **[AppleHealth Notebook](https://github.com/cagatayeroglu/AppleHealth/blob/main/AppleHealth.ipynb)**  
@@ -18,7 +17,7 @@
 
 ## Motivation
 
-How do daily habits change as academic workload increases? This project aims to examine personal physical health data to observe the impact of increasing academic intensity. By analyzing health metrics during different academic and non-academic phases, I hope to uncover patterns and correlations between academic schedules and physical health.
+How do daily habits change as academic workload increases? This project aims to examine personal physical health data to observe the impact of increasing academic intensity. By analyzing health metrics(step count) during different academic and non-academic phases, I hope to uncover patterns and correlations between academic schedules and physical health while underlining the outliers and their effect.
 
 ---
 
@@ -118,7 +117,7 @@ These internship periods were identified as outliers due to their deviation from
 ## Expected Outcomes
 
 1. A detailed analysis of how academic intensity influences physical health metrics.  
-2. Insights into activity levels and energy expenditure trends across different academic and non-academic periods.  
+2. Insights into step count(physical activity) trends across different academic and non-academic periods.  
 3. Practical suggestions for balancing academic workload and maintaining physical well-being.  
 4. Identification of outliers and their impact on physical health metrics.  
 
